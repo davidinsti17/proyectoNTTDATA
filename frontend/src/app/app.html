@@ -1,0 +1,14 @@
+<nav class="navbar">
+  <a routerLink="/" class="nav-brand">
+    <span style="background: var(--primary); padding: 0.25rem 0.5rem; border-radius: 8px;">📚</span>
+    Biblioteca NULLPOINTER
+  </a>
+  <div class="nav-links">
+    <a routerLink="/" class="nav-link" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">Autores</a>
+    <a routerLink="/authors/new" class="nav-link" routerLinkActive="active">Añadir Autor</a>
+  </div>
+</nav>
+
+<main style="padding-top: 2rem; padding-bottom: 4rem;">
+  <router-outlet></router-outlet>
+</main>

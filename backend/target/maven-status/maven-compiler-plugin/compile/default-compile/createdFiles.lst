@@ -1,0 +1,9 @@
+com\nttdata\backend\controller\BookController.class
+com\nttdata\backend\dto\BookDTO.class
+com\nttdata\backend\model\Author.class
+com\nttdata\backend\BackendApplication.class
+com\nttdata\backend\model\Book.class
+com\nttdata\backend\controller\AuthorController.class
+com\nttdata\backend\repository\AuthorRepository.class
+com\nttdata\backend\config\WebConfig.class
+com\nttdata\backend\repository\BookRepository.class
