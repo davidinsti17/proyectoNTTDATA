@@ -25,7 +25,7 @@ La temática elegida es **Biblioteca (Autor 1:M Libros)**.
 ### 1. Arrancar el Backend (Spring Boot)
 1. Navega a la carpeta del backend:
    ```bash
-   cd backend
+   cd backend 
    ```
 2. Ejecuta la aplicación usando Maven:
    ```bash
